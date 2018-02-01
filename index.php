@@ -7,4 +7,4 @@
      */
 
     echo 'Hallo, dit is een test <br> ';
-    echo 'Nieuwe commit';
+    echo 'Nieuwe commit ';

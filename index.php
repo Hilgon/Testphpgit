@@ -8,3 +8,5 @@
 
     echo 'Hallo, dit is een test <br>';
     echo 'Nieuwe commit';
+
+    die('Dit is een die');

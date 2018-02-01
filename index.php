@@ -6,4 +6,6 @@
      * Time: 10:20
      */
 
-    echo 'Hallo, dit is een test';
+    echo 'Hallo, dit is een test <br>
+
+Nieuwe commit';

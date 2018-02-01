@@ -10,3 +10,4 @@
     echo 'Nieuwe commit';
 
     die('Dit is een die');
+    echo 'Hier komt ie niet';
